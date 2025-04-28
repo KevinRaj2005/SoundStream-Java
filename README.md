@@ -36,23 +36,33 @@ Ideal for learning basic file handling, audio processing (`javax.sound.sampled`)
 4. **Controls**
 
   P: Play song
+  
   S: Stop song
+  
   R: Reset song
+  
   B: Back to playlist menu
+  
   Q: Quit the application
 
 ## Requirements
 
 Java Development Kit (JDK) 8 or higher
+
 .wav files for songs
+
 Terminal/Command Prompt access
 
 ## Future Enhancements
 
 Add support for MP3 format (using external libraries like JLayer).
+
 Build a GUI using Java Swing or JavaFX.
+
 Add pause and volume control features.
+
 Dynamic loading of songs from folders instead of hardcoding.
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
