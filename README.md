@@ -35,15 +35,15 @@ Ideal for learning basic file handling, audio processing (`javax.sound.sampled`)
 
 4. **Controls**
 
-  P: Play song
+     P: Play song
   
-  S: Stop song
+     S: Stop song
   
-  R: Reset song
+     R: Reset song
   
-  B: Back to playlist menu
+     B: Back to playlist menu
   
-  Q: Quit the application
+     Q: Quit the application
 
 ## Requirements
 
