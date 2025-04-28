@@ -28,12 +28,12 @@ Ideal for learning basic file handling, audio processing (`javax.sound.sampled`)
    javac MusicPlayer.java
    ```
 
-3. **Run the Program
-  ```bash
-  java MusicPlayer
-  ```
+3. **Run the Program**
+   ```bash
+   java MusicPlayer
+   ```
 
-4. Controls
+4. **Controls**
 
   P: Play song
   S: Stop song
